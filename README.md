@@ -7,9 +7,6 @@
 
 With a background as a Marketing Executive, I've had the privilege to delve into the world of branding and customer engagement. I believe that data-driven decisions are at the core of successful marketing strategies, and that's what led me to the world of data analytics.
 
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!---
 Bhuvana-Chandrika/Bhuvana-Chandrika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
