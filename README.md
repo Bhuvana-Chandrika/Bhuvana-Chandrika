@@ -28,8 +28,6 @@
 
 - 📫 Feel free to reach me out **Bhuvana@utexas.edu**
 
-- 📄 Know about my experiences <a href="https://github.com/Bhuvana-Chandrika/Bhuvana-Chandrika/blob/main/Bhuvana%20Chandrika%20resume.pdf" target="blank">Resume</a>
-
 <!--Intro end-->
 
 
