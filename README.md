@@ -11,11 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Photographer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake""
-       alt="snake" /></a>
-</div>
 
 
 
