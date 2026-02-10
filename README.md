@@ -8,7 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋,  I'm Bhuvana</h1></summary>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Student;Data-Driven+Marketer;Photographer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Photographer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!--- snake -->
