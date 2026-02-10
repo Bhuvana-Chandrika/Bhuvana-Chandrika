@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋,  I'm Bhuvana Chandrika Kothapalli</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋,  I'm Bhuvana</h1></summary>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Student;Data-Driven+Marketer;Photographer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -20,11 +20,9 @@
 
 
 <!--Intro start-->
-- 👩‍🎓 I’m currently pursuing Master's in Business Analytics from **The University of Texas at Austin.**
+- 👩‍🎓 Data Analyst
 
-- 🌱 I’m currently learning **SQL, Python.**
-
-- ☁️ I've keen interest in Marketing and Analytics.
+- 🌱 Love analytics and data science for the power of insights
 
 - 📫 Feel free to reach me out **Bhuvana@utexas.edu**
 
