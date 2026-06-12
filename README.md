@@ -15,8 +15,6 @@
 
 
 <!--Intro start-->
-- 👩‍🎓 Data Analyst
-
 - 🌱 Love analytics and data science for the power of insights
 
 - 📫 Feel free to reach me out **Bhuvana@utexas.edu**
